@@ -1,0 +1,5 @@
+<resources>
+    <string name="keyboard_simple_key_done_text">OK</string>
+    <string name="keyboard_simple_key_more_text">=/&lt;</string>
+    <string name="keyboard_simple_key_back_text">ABC</string>
+</resources>

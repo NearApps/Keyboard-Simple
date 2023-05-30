@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="keyboard_simple_key_height">48dp</dimen>
+    <dimen name="keyboard_simple_key_height2">101dp</dimen>
+    <dimen name="keyboard_simple_key_height3">154dp</dimen>
+
+    <dimen name="keyboard_simple_vertical_gap">5dp</dimen>
+    <dimen name="keyboard_simple_horizontal_gap">10dp</dimen>
+
+    <dimen name="keyboard_simple_view_padding_top">6dp</dimen>
+    <dimen name="keyboard_simple_view_padding_bottom">6dp</dimen>
+
+    <dimen name="keyboard_simple_preview_height">56dp</dimen>
+
+    <dimen name="keyboard_simple_text_size">20sp</dimen>
+
+    <dimen name="keyboard_simple_done_text_size">20sp</dimen>
+
+    <dimen name="keyboard_simple_label_text_size">16sp</dimen>
+
+</resources>
