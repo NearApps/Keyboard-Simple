@@ -15,5 +15,5 @@ allprojects {
   
   ```gradle
 dependencies {
-    implementation 'com.github.NearApps:Keyboard-Simple:Tag'1.0.0
+    implementation 'com.github.NearApps:Keyboard-Simple:1.0.0'
   ```
