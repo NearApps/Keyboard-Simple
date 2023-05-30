@@ -1,4 +1,6 @@
 # Keyboard-Simple
+[![](https://jitpack.io/v/NearApps/Keyboard-Simple.svg)](https://jitpack.io/#NearApps/Keyboard-Simple)
+
 Library Keyboard Simple on Android
 
 
